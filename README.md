@@ -99,7 +99,6 @@ Project ini menunjukkan kemampuan pada bidang:
 
 # 🗺️ Network Topology
 
-> Tambahkan gambar topologi jaringan pada bagian ini.
 > <img width="605" height="307" alt="image" src="https://github.com/user-attachments/assets/f244589d-8284-4ff5-a5a6-8bea793ab242" />
 
 
