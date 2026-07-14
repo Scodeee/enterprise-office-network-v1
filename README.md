@@ -94,35 +94,6 @@ Project ini menunjukkan kemampuan pada bidang:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Enterprise-Office-Network-v1
-│
-├── configs/
-│   ├── Router-Utama.txt
-│   ├── Core-Switch.txt
-│   ├── Switch-LT1.txt
-│   ├── Switch-LT2.txt
-│   └── Server.txt
-│
-├── docs/
-│   ├── 01-Business-Requirement.pdf
-│   ├── 02-Network-Topology.pdf
-│   ├── 03-IP-Address-Plan.pdf
-│   ├── 04-VLAN-Plan.pdf
-│   ├── 05-Implementation.pdf
-│   ├── 06-Testing.pdf
-│   ├── 07-Troubleshooting.pdf
-│   └── 08-Lessons-Learned.pdf
-│
-├── images/
-│
-├── packet-tracer/
-│   └── Enterprise-Office-Network-v1.pkt
-│
-└── README.md
-```
 
 ---
 
@@ -131,9 +102,7 @@ Enterprise-Office-Network-v1
 > Tambahkan gambar topologi jaringan pada bagian ini.
 
 ```
-images/topology.png
-```
-
+<img width="605" height="307" alt="image" src="https://github.com/user-attachments/assets/f244589d-8284-4ff5-a5a6-8bea793ab242" />
 ---
 
 # ✅ Testing
@@ -147,7 +116,6 @@ Pengujian meliputi:
 - DNS Resolution
 - Internal Web Server Access
 - Internet Connectivity
-- Static Routing Verification
 
 ---
 
